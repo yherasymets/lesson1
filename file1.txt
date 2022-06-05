@@ -4,6 +4,5 @@ Las-Vegas
 Kyiv
 Krakow
 Helsinki
-Athens
 Rome
 Oslo
