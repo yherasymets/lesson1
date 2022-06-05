@@ -6,3 +6,4 @@ Krakow
 Helsinki
 Athens
 Rome
+Oslo
