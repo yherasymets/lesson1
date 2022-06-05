@@ -8,3 +8,4 @@ Chicago
 Helsinki
 Athens
 Rome
+Oslo
