@@ -1,9 +1,7 @@
 Miami
 New York
 Las-Vegas
-London
-Amsterdam
-Athens
+Londons
 Chicago
 Helsinki
 Athens
