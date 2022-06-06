@@ -1,7 +1,9 @@
 Miami
 New York
 Las-Vegas
-Kyivw
+Kyiv
+Krakow
+Vilnus
 Helsinki
-Athens
 Rome
+Oslo
