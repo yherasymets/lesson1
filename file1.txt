@@ -3,6 +3,7 @@ New York
 Las-Vegas
 Kyiv
 Krakow
+Vilnus
 Helsinki
 Rome
 Oslo
